@@ -1,4 +1,4 @@
 INSERT INTO place (name, location, image_url) VALUES
-                                                  ('Hoi An', 'Quang Nam', 'https://gonow.com.vn/wp-content/uploads/2024/05/du-lich-ha-noi-1-ngay-1.jpg'),
-                                                  ('Saigon', 'Ho Chi Minh City', 'https://gonow.com.vn/wp-content/uploads/2024/05/du-lich-ha-noi-1-ngay-1.jpg'),
-                                                  ('Hanoi', 'Hanoi', 'https://gonow.com.vn/wp-content/uploads/2024/05/du-lich-ha-noi-1-ngay-1.jpg');
+                                                  ('Hoi An', 'Quang Nam', 'https://bizweb.dktcdn.net/100/242/347/files/album-anh-ve-ha-noi-01-0cbc70a3-b767-46e7-9904-d09ad5092662.jpg?v=1720771375029'),
+                                                  ('Saigon', 'Ho Chi Minh City', 'https://bizweb.dktcdn.net/100/242/347/files/album-anh-ve-ha-noi-01-0cbc70a3-b767-46e7-9904-d09ad5092662.jpg?v=1720771375029'),
+                                                  ('Hanoi', 'Hanoi', 'https://bizweb.dktcdn.net/100/242/347/files/album-anh-ve-ha-noi-01-0cbc70a3-b767-46e7-9904-d09ad5092662.jpg?v=1720771375029');
